@@ -30,7 +30,7 @@ public class App {
                 .forEach(System.out::println);
 
         System.out.println("\n\nThe largest number is: " + largestNumber);
-
+        System.out.println("\n\nThe smallest number is: " + smallestNumber);
 
 
 
